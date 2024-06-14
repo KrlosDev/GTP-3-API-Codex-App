@@ -1,4 +1,4 @@
-# GTP-3-API-Codex-App
+# GTP-3.5-API-Codex-App
 
 ## Overview
 
